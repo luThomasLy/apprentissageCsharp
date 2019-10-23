@@ -1,0 +1,6 @@
+c:\users\sesa556509\documents\visual studio 2015\Projects\ConsoleApplication11_cast\ConsoleApplication11_cast\bin\Debug\ConsoleApplication11_cast.exe.config
+c:\users\sesa556509\documents\visual studio 2015\Projects\ConsoleApplication11_cast\ConsoleApplication11_cast\bin\Debug\ConsoleApplication11_cast.exe
+c:\users\sesa556509\documents\visual studio 2015\Projects\ConsoleApplication11_cast\ConsoleApplication11_cast\bin\Debug\ConsoleApplication11_cast.pdb
+c:\users\sesa556509\documents\visual studio 2015\Projects\ConsoleApplication11_cast\ConsoleApplication11_cast\obj\Debug\ConsoleApplication11_cast.exe
+c:\users\sesa556509\documents\visual studio 2015\Projects\ConsoleApplication11_cast\ConsoleApplication11_cast\obj\Debug\ConsoleApplication11_cast.pdb
+c:\users\sesa556509\documents\visual studio 2015\Projects\ConsoleApplication11_cast\ConsoleApplication11_cast\obj\Debug\ConsoleApplication11_cast.csprojResolveAssemblyReference.cache

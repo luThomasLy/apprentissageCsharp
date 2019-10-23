@@ -1,0 +1,6 @@
+c:\users\sesa556509\documents\visual studio 2015\Projects\ConsoleApplication19_thread01\ConsoleApplication19_thread01\bin\Debug\ConsoleApplication19_thread01.exe.config
+c:\users\sesa556509\documents\visual studio 2015\Projects\ConsoleApplication19_thread01\ConsoleApplication19_thread01\bin\Debug\ConsoleApplication19_thread01.exe
+c:\users\sesa556509\documents\visual studio 2015\Projects\ConsoleApplication19_thread01\ConsoleApplication19_thread01\bin\Debug\ConsoleApplication19_thread01.pdb
+c:\users\sesa556509\documents\visual studio 2015\Projects\ConsoleApplication19_thread01\ConsoleApplication19_thread01\obj\Debug\ConsoleApplication19_thread01.csprojResolveAssemblyReference.cache
+c:\users\sesa556509\documents\visual studio 2015\Projects\ConsoleApplication19_thread01\ConsoleApplication19_thread01\obj\Debug\ConsoleApplication19_thread01.exe
+c:\users\sesa556509\documents\visual studio 2015\Projects\ConsoleApplication19_thread01\ConsoleApplication19_thread01\obj\Debug\ConsoleApplication19_thread01.pdb

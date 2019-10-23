@@ -1,0 +1,6 @@
+c:\users\sesa556509\documents\visual studio 2015\Projects\ConsoleApplication15_exceptions\ConsoleApplication15_exceptions\bin\Debug\ConsoleApplication15_exceptions.exe.config
+c:\users\sesa556509\documents\visual studio 2015\Projects\ConsoleApplication15_exceptions\ConsoleApplication15_exceptions\bin\Debug\ConsoleApplication15_exceptions.exe
+c:\users\sesa556509\documents\visual studio 2015\Projects\ConsoleApplication15_exceptions\ConsoleApplication15_exceptions\bin\Debug\ConsoleApplication15_exceptions.pdb
+c:\users\sesa556509\documents\visual studio 2015\Projects\ConsoleApplication15_exceptions\ConsoleApplication15_exceptions\obj\Debug\ConsoleApplication15_exceptions.csprojResolveAssemblyReference.cache
+c:\users\sesa556509\documents\visual studio 2015\Projects\ConsoleApplication15_exceptions\ConsoleApplication15_exceptions\obj\Debug\ConsoleApplication15_exceptions.exe
+c:\users\sesa556509\documents\visual studio 2015\Projects\ConsoleApplication15_exceptions\ConsoleApplication15_exceptions\obj\Debug\ConsoleApplication15_exceptions.pdb

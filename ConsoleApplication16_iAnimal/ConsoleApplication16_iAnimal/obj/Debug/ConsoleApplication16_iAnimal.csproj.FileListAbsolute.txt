@@ -1,0 +1,6 @@
+c:\users\sesa556509\documents\visual studio 2015\Projects\ConsoleApplication16_iAnimal\ConsoleApplication16_iAnimal\bin\Debug\ConsoleApplication16_iAnimal.exe.config
+c:\users\sesa556509\documents\visual studio 2015\Projects\ConsoleApplication16_iAnimal\ConsoleApplication16_iAnimal\bin\Debug\ConsoleApplication16_iAnimal.exe
+c:\users\sesa556509\documents\visual studio 2015\Projects\ConsoleApplication16_iAnimal\ConsoleApplication16_iAnimal\bin\Debug\ConsoleApplication16_iAnimal.pdb
+c:\users\sesa556509\documents\visual studio 2015\Projects\ConsoleApplication16_iAnimal\ConsoleApplication16_iAnimal\obj\Debug\ConsoleApplication16_iAnimal.csprojResolveAssemblyReference.cache
+c:\users\sesa556509\documents\visual studio 2015\Projects\ConsoleApplication16_iAnimal\ConsoleApplication16_iAnimal\obj\Debug\ConsoleApplication16_iAnimal.exe
+c:\users\sesa556509\documents\visual studio 2015\Projects\ConsoleApplication16_iAnimal\ConsoleApplication16_iAnimal\obj\Debug\ConsoleApplication16_iAnimal.pdb

@@ -1,0 +1,5 @@
+c:\users\sesa556509\documents\visual studio 2015\Projects\ConsoleApplication14_tp\ConsoleApplication14_tp\bin\Debug\ConsoleApplication14_tp.exe.config
+c:\users\sesa556509\documents\visual studio 2015\Projects\ConsoleApplication14_tp\ConsoleApplication14_tp\bin\Debug\ConsoleApplication14_tp.exe
+c:\users\sesa556509\documents\visual studio 2015\Projects\ConsoleApplication14_tp\ConsoleApplication14_tp\bin\Debug\ConsoleApplication14_tp.pdb
+c:\users\sesa556509\documents\visual studio 2015\Projects\ConsoleApplication14_tp\ConsoleApplication14_tp\obj\Debug\ConsoleApplication14_tp.exe
+c:\users\sesa556509\documents\visual studio 2015\Projects\ConsoleApplication14_tp\ConsoleApplication14_tp\obj\Debug\ConsoleApplication14_tp.pdb

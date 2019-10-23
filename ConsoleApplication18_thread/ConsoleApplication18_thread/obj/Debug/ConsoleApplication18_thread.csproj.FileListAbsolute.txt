@@ -1,0 +1,5 @@
+c:\users\sesa556509\documents\visual studio 2015\Projects\ConsoleApplication18_thread\ConsoleApplication18_thread\bin\Debug\ConsoleApplication18_thread.exe.config
+C:\Users\SESA556509\Documents\Visual Studio 2015\Projects\ConsoleApplication18_thread\ConsoleApplication18_thread\bin\Debug\ConsoleApplication18_thread.exe
+C:\Users\SESA556509\Documents\Visual Studio 2015\Projects\ConsoleApplication18_thread\ConsoleApplication18_thread\bin\Debug\ConsoleApplication18_thread.pdb
+C:\Users\SESA556509\Documents\Visual Studio 2015\Projects\ConsoleApplication18_thread\ConsoleApplication18_thread\obj\Debug\ConsoleApplication18_thread.exe
+C:\Users\SESA556509\Documents\Visual Studio 2015\Projects\ConsoleApplication18_thread\ConsoleApplication18_thread\obj\Debug\ConsoleApplication18_thread.pdb

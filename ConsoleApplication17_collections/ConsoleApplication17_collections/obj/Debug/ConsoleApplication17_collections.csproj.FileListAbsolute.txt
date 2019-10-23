@@ -1,0 +1,6 @@
+c:\users\sesa556509\documents\visual studio 2015\Projects\ConsoleApplication17_collections\ConsoleApplication17_collections\bin\Debug\ConsoleApplication17_collections.exe.config
+c:\users\sesa556509\documents\visual studio 2015\Projects\ConsoleApplication17_collections\ConsoleApplication17_collections\bin\Debug\ConsoleApplication17_collections.exe
+c:\users\sesa556509\documents\visual studio 2015\Projects\ConsoleApplication17_collections\ConsoleApplication17_collections\bin\Debug\ConsoleApplication17_collections.pdb
+c:\users\sesa556509\documents\visual studio 2015\Projects\ConsoleApplication17_collections\ConsoleApplication17_collections\obj\Debug\ConsoleApplication17_collections.csprojResolveAssemblyReference.cache
+c:\users\sesa556509\documents\visual studio 2015\Projects\ConsoleApplication17_collections\ConsoleApplication17_collections\obj\Debug\ConsoleApplication17_collections.exe
+c:\users\sesa556509\documents\visual studio 2015\Projects\ConsoleApplication17_collections\ConsoleApplication17_collections\obj\Debug\ConsoleApplication17_collections.pdb
