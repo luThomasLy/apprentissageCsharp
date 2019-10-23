@@ -1,0 +1,5 @@
+c:\users\sesa556509\documents\visual studio 2015\Projects\ConsoleApplication20_thread02\ConsoleApplication20_thread02\bin\Debug\ConsoleApplication20_thread02.exe.config
+c:\users\sesa556509\documents\visual studio 2015\Projects\ConsoleApplication20_thread02\ConsoleApplication20_thread02\bin\Debug\ConsoleApplication20_thread02.exe
+c:\users\sesa556509\documents\visual studio 2015\Projects\ConsoleApplication20_thread02\ConsoleApplication20_thread02\bin\Debug\ConsoleApplication20_thread02.pdb
+c:\users\sesa556509\documents\visual studio 2015\Projects\ConsoleApplication20_thread02\ConsoleApplication20_thread02\obj\Debug\ConsoleApplication20_thread02.exe
+c:\users\sesa556509\documents\visual studio 2015\Projects\ConsoleApplication20_thread02\ConsoleApplication20_thread02\obj\Debug\ConsoleApplication20_thread02.pdb

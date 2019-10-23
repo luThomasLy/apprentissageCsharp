@@ -1,0 +1,5 @@
+c:\users\sesa556509\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+C:\Users\SESA556509\Documents\Visual Studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+C:\Users\SESA556509\Documents\Visual Studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
+C:\Users\SESA556509\Documents\Visual Studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+C:\Users\SESA556509\Documents\Visual Studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb

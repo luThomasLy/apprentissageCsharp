@@ -1,0 +1,6 @@
+c:\users\sesa556509\documents\visual studio 2015\Projects\ConsoleApplication8_array\ConsoleApplication8_array\bin\Debug\ConsoleApplication8_array.exe.config
+c:\users\sesa556509\documents\visual studio 2015\Projects\ConsoleApplication8_array\ConsoleApplication8_array\bin\Debug\ConsoleApplication8_array.exe
+c:\users\sesa556509\documents\visual studio 2015\Projects\ConsoleApplication8_array\ConsoleApplication8_array\bin\Debug\ConsoleApplication8_array.pdb
+c:\users\sesa556509\documents\visual studio 2015\Projects\ConsoleApplication8_array\ConsoleApplication8_array\obj\Debug\ConsoleApplication8_array.csprojResolveAssemblyReference.cache
+c:\users\sesa556509\documents\visual studio 2015\Projects\ConsoleApplication8_array\ConsoleApplication8_array\obj\Debug\ConsoleApplication8_array.exe
+c:\users\sesa556509\documents\visual studio 2015\Projects\ConsoleApplication8_array\ConsoleApplication8_array\obj\Debug\ConsoleApplication8_array.pdb
